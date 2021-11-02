@@ -3,5 +3,6 @@ My .NET CORE MVC app running on azure: https://makkaronibrowsergametemplate.azur
 Features:<br/>
 -Equipment system <br/>
 -Fight system <br/>
+-Customizable outfit/avatar system with droppable cosmetics
 -Friends and messages  <br/>
 -Guild (only avaible for grouping with no additionals actions) <br/>
